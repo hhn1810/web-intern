@@ -24,4 +24,4 @@ To Visit App:
 
 Heroku :
 
-[Đi đến website](https://shopping-cart-web-intern.herokuapp.com)
+Click [here](https://shopping-cart-web-intern.herokuapp.com) to go to my website
