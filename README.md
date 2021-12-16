@@ -24,4 +24,4 @@ To Visit App:
 
 Heroku :
 
-`shopping-cart-web-intern.herokuapp.com`
+[a link](https://shopping-cart-web-intern.herokuapp.com)`
